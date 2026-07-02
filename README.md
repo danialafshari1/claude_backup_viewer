@@ -37,4 +37,5 @@ zip یا پوشه‌ی استخراج‌شده را انتخاب کن.
 Requirements:
 
 sudo dnf install python3-tkinter
+
 pip install arabic-reshaper python-bidi --break-system-packages
